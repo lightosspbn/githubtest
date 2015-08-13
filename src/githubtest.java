@@ -10,7 +10,7 @@ public class githubtest {
 		System.out.println("githubtest2");
 		System.out.println("githubtest3");
 		System.out.println("githubtest4");
-		System.out.println("githubtest5");
+		System.out.println("githubtest6");
 	}
 
 }
